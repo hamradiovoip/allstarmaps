@@ -1,0 +1,2 @@
+# allstarmaps
+maps for allstar
